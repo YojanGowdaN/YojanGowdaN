@@ -142,47 +142,24 @@ const yojan = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YojanGowdaN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e8c96e&icon_color=6366f1&text_color=a5b4fc&ring_color=6366f1" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YojanGowdaN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e8c96e&text_color=a5b4fc" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YojanGowdaN&theme=tokyonight&hide_border=true&background=0d1117&ring=e8c96e&fire=6366f1&currStreakLabel=e8c96e&sideLabels=a5b4fc&sideNums=e8c96e&dates=6b6b85" width="500"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YojanGowdaN&bg_color=0d1117&color=e8c96e&line=6366f1&point=3dd9c0&area=true&hide_border=true&area_color=6366f1" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YojanGowdaN&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="100%"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YojanGowdaN/YojanGowdaN/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YojanGowdaN/YojanGowdaN/output/github-snake.svg"/>
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YojanGowdaN/YojanGowdaN/output/github-snake.svg" width="100%"/>
-  </picture>
-</div>
+Generates a snake game from a github user contributions graph
 
-> ⚙️ **To activate the snake animation:** Go to your repo → Actions → Enable workflows → Create a new workflow file `.github/workflows/snake.yml` with the snake generator action. ([Guide here](https://github.com/Platane/snk))
-
----
-
-<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### 💬 Quote I Live By
 
