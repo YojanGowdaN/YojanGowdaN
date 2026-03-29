@@ -35,11 +35,10 @@
 ```typescript
 const yojan = {
   name        : "Yojan Gowda N",
-  location    : "Karnataka, India 🇮🇳",
+  location    : "Mandya, Karnataka, India 🇮🇳",
   education   : "B.E. — AI & Machine Learning @ JSS Science & Tech University",
   role        : "Full Stack Developer & AI Integrator",
   stack       : ["React.js", "Node.js", "Express.js", "MongoDB"],
-  ai          : ["Claude AI", "Gemini AI"],
   currently   : "Building AI-powered web products 🚀",
   openTo      : "Freelance projects & collaborations 💼",
   contact     : "yojangowdan21@gmail.com",
