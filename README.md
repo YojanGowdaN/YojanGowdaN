@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E8C96E&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Yojan+%F0%9F%91%8B;Full+Stack+Web+Developer;AI+Integration+Engineer;MERN+Stack+Builder;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E8C96E&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Yojan+%F0%9F%91%8B;Full+Stack+Web+Developer;AI+Integration+Engineer;MERN+Stack+Builder;Hackathon+Builder+%F0%9F%8F%86;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,6 +23,10 @@
     <img src="https://img.shields.io/badge/Live%20Project-3dd9c0?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
   &nbsp;
+  <a href="https://github.com/YojanGowdaN/Crime-or-Fake-news-complaint-intelligence-dashboard">
+    <img src="https://img.shields.io/badge/Hackathon%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=YojanGowdaN&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 </div>
 
@@ -39,7 +43,9 @@ const yojan = {
   education   : "B.E. — AI & Machine Learning @ JSS Science & Tech University",
   role        : "Full Stack Developer & AI Integrator",
   stack       : ["React.js", "Node.js", "Express.js", "MongoDB"],
+  ai          : ["Gemini AI", "Claude AI"],
   currently   : "Building AI-powered web products 🚀",
+  hackathons  : ["Sentinel AI — Crime & Fake News Intelligence Dashboard 🛡️"],
   openTo      : "Freelance projects & collaborations 💼",
   contact     : "yojangowdan21@gmail.com",
 };
@@ -72,6 +78,9 @@ const yojan = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 </div>
 
@@ -116,6 +125,12 @@ const yojan = {
 
 <br/>
 
+<div align="center">
+
+### 📊 Admin Dashboard System
+
+</div>
+
 <table>
   <tr>
     <td width="45%" align="center">
@@ -125,7 +140,7 @@ const yojan = {
       <h3>📊 Admin Dashboard System</h3>
       <p>A full-stack management platform with auth and content management.</p>
       <ul>
-        <li>🔐 JWT Authentication & role-based access</li>
+        <li>🔐 JWT Authentication & role-based access control</li>
         <li>📋 Rich content management interface</li>
         <li>📈 Data management with MongoDB</li>
         <li>⚡ RESTful API architecture</li>
@@ -134,16 +149,62 @@ const yojan = {
         <img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🛡️ SENTINEL AI — Cyber Intelligence Dashboard
+
+</div>
+
+<table>
+  <tr>
+    <td width="55%">
+      <h3>🛡️ <a href="https://github.com/YojanGowdaN/Crime-or-Fake-news-complaint-intelligence-dashboard">SENTINEL AI</a> &nbsp;<img src="https://img.shields.io/badge/HACKATHON-6366f1?style=flat-square&logoColor=white"/></h3>
+      <p>A cyber-intelligence dashboard for real-time crime and fake news complaint monitoring — built for a hackathon.</p>
+      <ul>
+        <li>🚨 Live alert stream with severity badges & notifications</li>
+        <li>🔍 AI fake news analyzer with confidence scoring</li>
+        <li>🗺️ Geo-heatmap for location-based risk plotting (Leaflet)</li>
+        <li>📝 Complaint submission form with file upload support</li>
+        <li>📊 Dynamic charts & real-time metrics (Chart.js)</li>
+        <li>💬 WhatsApp bot integration for instant alerts</li>
+        <li>🔌 Socket.IO for real-time events + mock fallback mode</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+      <a href="https://github.com/YojanGowdaN/Crime-or-Fake-news-complaint-intelligence-dashboard">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d1a,100:1e1b4b&height=200&text=SENTINEL%20AI&fontSize=30&fontColor=a5b4fc&desc=Cyber%20Intelligence%20Dashboard&descColor=6366f1&descSize=13" width="100%"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Stats
 
-Generates a snake game from a github user contributions graph
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YojanGowdaN&theme=tokyonight&hide_border=true&background=0d1117&ring=e8c96e&fire=6366f1&currStreakLabel=a5b4fc" width="70%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <picture>
   <source
@@ -160,7 +221,11 @@ Generates a snake game from a github user contributions graph
   />
 </picture>
 
+---
+
 ### 💬 Quote I Live By
+
+<div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
