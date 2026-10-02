@@ -45,7 +45,7 @@ const yojan = {
   stack       : ["React", "TypeScript", "Node.js", "Express", "MongoDB", "Python", "FastAPI"],
   ai          : ["Gemini", "Claude", "Llama 3 (Groq)", "OpenAI", "Ollama", "LangGraph", "RAG"],
   focus       : ["Autonomous agents", "Civic tech", "AgriTech", "Career tech"],
-  currently   : "Building Jarvis V3 — a multi-device AI assistant 🧠",
+  currently   : "Building my own Personal AI assistant 🧠",
   hackathons  : ["Team The Shield 🛡️", "Team AVENGERS (SIH)"],
   openTo      : "Freelance projects & collaborations 💼",
   contact     : "yojangowdan21@gmail.com",
@@ -100,37 +100,33 @@ const yojan = {
 
 <div align="center">
 
-### 🧠 Jarvis V3 — Multi-Device AI Assistant
+### 🧠 Personal AI — My Everyday Assistant
 
 </div>
 
 <table>
   <tr>
     <td width="55%">
-      <h3>🧠 <a href="https://github.com/YojanGowdaN/Jarvis-V-2">Jarvis V3</a> &nbsp;<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-e8c96e?style=flat-square&logoColor=black"/></h3>
-      <p>A JARVIS-style multi-device AI assistant (PC, phone, tablet) with a phased agentic architecture.</p>
+      <h3>🧠 Personal AI &nbsp;<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-e8c96e?style=flat-square&logoColor=black"/></h3>
+      <p><b>🎯 My aim:</b> a friendly, truly personal AI assistant that works across my PC, phone and tablet — one that understands me, handles my routine, controls my computer, manages my mail and messages, helps with my work, and offers helpful suggestions before I ask.</p>
+      <p><b>✨ What it can do today</b></p>
       <ul>
-        <li>🌌 3D "Singularity" HUD with draggable pods — React 19, TypeScript, Three.js, Tailwind</li>
-        <li>🖥️ Native desktop app via Tauri, multi-window widgets over one Python WebSocket gateway</li>
-        <li>🛡️ Two-layer SafetyGate + purchase/send confirmation gates</li>
-        <li>🕸️ DAG task graphs, AgentLoop with bounded retries, Observation & Verification engine</li>
-        <li>🔀 Multi-LLM routing across OpenAI, Groq, Gemini and local Ollama</li>
-        <li>🧩 Skill Engine that loads <code>SKILL.md</code> capabilities dynamically</li>
-        <li>👁️ Vision controller (Tesseract OCR + Gemini Vision) for PC control</li>
-        <li>🛒 ShoppingSubAgent — headless Playwright scraping + LLM ranking, confirms before any purchase</li>
-        <li>🚧 In progress: multi-agent split (coding, research, comms, vision, memory), Gmail / WhatsApp / Telegram sub-agents</li>
+        <li>🗣️ Talk and take commands with a cinematic, holographic-style interface</li>
+        <li>🔐 Recognise me by voice and face before acting</li>
+        <li>🖥️ See my screen and control the PC — mouse, keyboard, apps and the browser</li>
+        <li>🛒 Compare products across shopping sites, tell me the best option, and ask before buying anything</li>
+        <li>📄 Create documents, presentations and spreadsheets on request</li>
+        <li>🛡️ Check risky actions with built-in safety gates and ask for confirmation</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-      </p>
+      <p><b>🚧 Coming next</b></p>
+      <ul>
+        <li>🤝 A team of specialised helpers for coding, research, communication and memory</li>
+        <li>📧 Email, WhatsApp and Telegram assistance</li>
+        <li>⏰ Daily routine management and proactive suggestions</li>
+      </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=200&text=Jarvis%20V3&fontSize=36&fontColor=e8c96e&desc=Multi-Device%20AI%20Assistant&descColor=a5b4fc&descSize=14" width="100%"/>
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=200&text=Personal%20AI&fontSize=36&fontColor=e8c96e&desc=My%20Everyday%20Assistant&descColor=a5b4fc&descSize=14" width="100%"/>
     </td>
   </tr>
 </table>
