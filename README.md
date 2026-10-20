@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/yojan-gowda-n-0402a23a8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yojangowdan21@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://eternity-dashadikku-news.onrender.com/"><img src="https://img.shields.io/badge/Live-DashaDikku-10b981?style=for-the-badge&logo=render&logoColor=white" alt="Live project"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YojanGowdaN&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 <br/>
@@ -23,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="100%" valign="top">
       <p>
         I'm a B.E. <b>AI &amp; Machine Learning</b> student at <b>JSS Science &amp; Technology University</b> in Karnataka, India.
         I turn ideas into working products — from WhatsApp-native civic platforms to real-time threat dashboards and personal AI agents.
@@ -34,9 +33,6 @@
         <li>🌱 <b>Exploring:</b> multi-agent systems, RAG, voice + vision interfaces</li>
         <li>💼 <b>Open to:</b> freelance projects &amp; collaborations</li>
       </ul>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=YojanGowdaN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=38bdf8&text_color=c9d1d9&count_private=true" width="100%" alt="GitHub stats"/>
     </td>
   </tr>
 </table>
@@ -176,6 +172,25 @@
 
 ---
 
+## 🏅 Achievements
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>🌐</h2><b>Shipped live</b><br/><sub>DashaDikku News is deployed and running in production</sub></td>
+    <td align="center" width="25%"><h2>🏛️</h2><b>Open source</b><br/><sub>JanSetu AI released publicly under the MIT license</sub></td>
+    <td align="center" width="25%"><h2>🏆</h2><b>Major hackathon entries</b><br/><sub>Smart India Hackathon 2026 · NVIDIA Open Hackathons · Google Build with AI</sub></td>
+    <td align="center" width="25%"><h2>🛡️</h2><b>Team lead</b><br/><sub>Leading hackathon teams The Shield and AVENGERS</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><h2>🚀</h2><b>7+ hackathon submissions</b><br/><sub>Ignitia2k26 · Hack Genesis 2026 · DSU · SIH · NVIDIA · Google · more</sub></td>
+    <td align="center"><h2>🤖</h2><b>Agentic AI builder</b><br/><sub>Voice, vision and PC-control assistant with safety gates</sub></td>
+    <td align="center"><h2>🧠</h2><b>Multi-domain projects</b><br/><sub>Civic tech · AgriTech · Career tech · Cyber intelligence</sub></td>
+    <td align="center"><h2>🎓</h2><b>AI &amp; ML at JSS STU</b><br/><sub>B.E. student building real products alongside coursework</sub></td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 Hackathons
 
 | Team | Projects & events |
@@ -191,8 +206,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=YojanGowdaN&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8" width="48%" alt="Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YojanGowdaN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" width="40%" alt="Top languages"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YojanGowdaN&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=38bdf8&point=ffffff" width="95%" alt="Contribution graph"/>
 </div>
 
 ---
