@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0ea5e9,50:6366f1,100:a855f7&text=Yojan%20Gowda%20N&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=I%20build%20AI%20that%20acts%2C%20not%20just%20answers&descSize=18&descAlignY=60&descColor=e0e7ff" width="100%" alt="Yojan Gowda N — I build AI that acts, not just answers"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ea5e9,50:6366f1,100:a855f7&text=Yojan%20Gowda%20N&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=I%20build%20AI%20that%20acts%2C%20not%20just%20answers&descSize=18&descAlignY=62&descColor=e0e7ff" width="100%" alt="Yojan Gowda N — I build AI that acts, not just answers"/>
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@ I'm a B.E. **AI & Machine Learning** student at **JSS Science & Technology Unive
 
 ### 🧠 Personal AI — my everyday assistant &nbsp;<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-f59e0b?style=flat-square" alt="in development"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:0ea5e9,100:6366f1&text=Personal%20AI&fontSize=34&fontColor=ffffff&desc=PC%20%E2%80%A2%20Phone%20%E2%80%A2%20Tablet&descSize=14&descColor=e0e7ff" width="100%" alt="Personal AI"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:0ea5e9,100:6366f1&text=Personal%20AI&fontSize=72&fontColor=ffffff&desc=PC%20%E2%80%A2%20Phone%20%E2%80%A2%20Tablet&descSize=30&descColor=e0e7ff" width="640" alt="Personal AI"/>
 
 A friendly, truly personal assistant that understands my routine, controls my computer, manages mail and messages, and offers suggestions *before* I ask.
 
@@ -57,7 +57,7 @@ A friendly, truly personal assistant that understands my routine, controls my co
 
 ### 🏛️ JanSetu AI — civic complaint platform &nbsp;<img src="https://img.shields.io/badge/GOOGLE%20BUILD%20WITH%20AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Build with AI"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:ff9933,50:ffffff,100:138808&text=JanSetu%20AI&fontSize=34&fontColor=0b1f4b&desc=Citizen%20%E2%86%94%20Authority&descSize=14&descColor=0b1f4b" width="100%" alt="JanSetu AI"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:ff9933,50:ffffff,100:138808&text=JanSetu%20AI&fontSize=72&fontColor=0b1f4b&desc=Citizen%20%E2%86%94%20Authority&descSize=30&descColor=0b1f4b" width="640" alt="JanSetu AI"/>
 
 A multilingual, multimodal bridge between citizens and authorities, built for *Code for Communities (Second Edition)*.
 
@@ -74,7 +74,7 @@ A multilingual, multimodal bridge between citizens and authorities, built for *C
 
 ### 🛡️ SENTINEL AI — cyber intelligence dashboard &nbsp;<img src="https://img.shields.io/badge/HACKATHON-6366f1?style=flat-square" alt="hackathon"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:0f172a,100:dc2626&text=SENTINEL%20AI&fontSize=32&fontColor=ffffff&desc=Real-time%20threat%20intelligence&descSize=14&descColor=fecaca" width="100%" alt="Sentinel AI"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:0f172a,100:dc2626&text=SENTINEL%20AI&fontSize=72&fontColor=ffffff&desc=Real-time%20threat%20intelligence&descSize=30&descColor=fecaca" width="640" alt="Sentinel AI"/>
 
 Real-time crime and fake-news complaint monitoring for faster, smarter response.
 
@@ -90,9 +90,9 @@ Real-time crime and fake-news complaint monitoring for faster, smarter response.
 
 ### 🚀 LaunchPad AI & CourseGuard — career intelligence &nbsp;<img src="https://img.shields.io/badge/MULTI--HACKATHON-6366f1?style=flat-square" alt="multi hackathon"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:6366f1,100:a855f7&text=LaunchPad%20AI&fontSize=32&fontColor=ffffff&desc=Career%20Intelligence%20Platform&descSize=14&descColor=e0e7ff" width="100%" alt="LaunchPad AI"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:6366f1,100:a855f7&text=LaunchPad%20AI&fontSize=72&fontColor=ffffff&desc=Career%20Intelligence%20Platform&descSize=30&descColor=e0e7ff" width="640" alt="LaunchPad AI"/>
 
-Submitted to **FusionX-VVCE**.
+Submitted to **Ignitia2k26**, **Hack Genesis 2026** and the **DSU Hackathon (Agentic AI)**.
 
 - 📄 **ATSForge AI** — resume optimisation
 - 🎤 **Interview Autopsy AI** — AI avatar interviewer
@@ -154,18 +154,18 @@ Submitted to **FusionX-VVCE**.
 
 ## 🏆 Hackathons
 
-- 🛡️ **The Shield** — Sentinel AI (Rajarajeshwari Engineering College) · ArogyaMitra (MCE) · JanSetu AI (Google Build with AI)
+- 🛡️ **The Shield** — Sentinel AI · ScholarMind (NVIDIA Open Hackathons) · JanSetu AI (Google Build with AI)
 - ⚔️ **AVENGERS** — Smart India Hackathon 2026 · PS ID SIH26101
-- 🚀 **LaunchPad AI** — FusionX (VVCE)
+- 🚀 **LaunchPad AI** — Ignitia2k26 · Hack Genesis 2026 · DSU Hackathon
 
 ---
 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YojanGowdaN&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8" width="100%" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=YojanGowdaN&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8" width="420" alt="Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YojanGowdaN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" width="100%" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YojanGowdaN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" width="320" alt="Top languages"/>
 </div>
 
 ---
@@ -178,6 +178,6 @@ Submitted to **FusionX-VVCE**.
 &nbsp;
 [![Email](https://img.shields.io/badge/Send%20Me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yojangowdan21@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a855f7,50:6366f1,100:0ea5e9&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:a855f7,50:6366f1,100:0ea5e9&section=footer" width="100%" alt=""/>
 
 </div>
