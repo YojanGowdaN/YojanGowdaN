@@ -119,51 +119,6 @@ A real-time intelligence dashboard concept for monitoring crime-related reports 
 
 ---
 
-## 🚀 LaunchPad AI
-
-**Career Intelligence · Generative AI · Skills Analysis**
-
-A collection of AI-powered career tools designed to help people prepare for employment, demonstrate skills, and present their professional experience.
-
-| Component               | Purpose                                              |
-| ----------------------- | ---------------------------------------------------- |
-| ATSForge AI             | Resume analysis and optimization                     |
-| Interview Autopsy AI    | AI-assisted interview practice                       |
-| Career Shadow           | Career exploration and role discovery                |
-| SkillVerify             | Skill assessment and verification                    |
-| Smart Portfolio Builder | Professional portfolio generation                    |
-| Hidden Talent Detection | Discovering potential skills from available evidence |
-
-Associated with development and hackathon submissions, including Ignitia2k26, Hack Genesis 2026, and the DSU Hackathon.
-
----
-
-## 🎓 CourseGuard AI
-
-**Educational Technology · Identity Verification · Engagement Analysis**
-
-An education-focused AI concept exploring learner verification and engagement monitoring.
-
-The broader goal is to investigate how AI can support trustworthy digital learning while respecting privacy and appropriate limits on automated monitoring.
-
----
-
-## 🇮🇳 iGOT Karmayogi Skill Intelligence
-
-**Smart India Hackathon 2026 · Personalized Learning**
-
-An approach to personalized learning and competency development for public-sector learning environments.
-
-**Concepts explored**
-
-* 🧬 **Competency Twin** — a continuously updated representation of a learner's demonstrated skills.
-* ⏭️ **Skip-to-Prove** — demonstrate existing knowledge rather than repeat familiar material.
-* 🤖 **RAG Mentor** — contextual assistance grounded in learning resources.
-* 📝 **Adaptive Assessment** — automatically generated knowledge checks.
-* 📉 **Skill Decay Prediction** — identify competencies that may need reinforcement.
-
----
-
 ## 🧩 More Projects
 
 | Project                                                              | Focus                                                                      |
